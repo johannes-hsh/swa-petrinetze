@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class netz {
+public class Netz {
 	
 	public static void legendeDarstellen(){
 		System.out.println( "Legende -----------------------------------------------------------");
